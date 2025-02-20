@@ -77,8 +77,6 @@ master
 ![track.gif](Gallery%2FGIFS%2Ftrack.gif)
 
 ### Examples:
- #### Night
- ![Night](Gallery/PNG/Night.png)
  #### Tea
  ![Tea](Gallery/PNG/Tea.png)
  #### Duck
