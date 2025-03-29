@@ -76,11 +76,7 @@ master
 7 - Keep track of colors
 ![track.gif](Gallery%2FGIFS%2Ftrack.gif)
 
-### Examples:
- #### Tea
- ![Tea](Gallery/PNG/Tea.png)
- #### Duck
-  ![Duck](Gallery/PNG/Duck.png)
+
 
 
 ### How to Run The Project
